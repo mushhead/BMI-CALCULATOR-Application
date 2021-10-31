@@ -1,7 +1,7 @@
 (https://user-images.githubusercontent.com/85195626/124558727-8b456000-de58-11eb-9d4b-5482b5bad6dd.jpeg)
 # yyg
 
-A new Flutter application.
+A New Built Flutter application.
 
 ## Getting Started
 
